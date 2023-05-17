@@ -4,7 +4,7 @@ I'm a software developer currently studying applied mathematics and computer sci
 
 ## 🧰 Skills & Tools
 
-- Proficient: Java, Python, C++, Swift
+- Proficient: Swift, Java, Python, C++
 - Web Development: HTML, CSS, JavaScript
 - Databases: MySQL, MariaDB
 - Tools: Git, GitHub, Docker
