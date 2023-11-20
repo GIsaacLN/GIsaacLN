@@ -21,7 +21,7 @@ Here are some of my projects. Feel free to check them out!
 
 ## 📚 Education
 
-- **iOS App Development** - [Apple Developer Academy]([https://www.unam.mx/](https://www.developeracademy.unina.it/en/)) (2023 - 2024)
+- **iOS App Development** - [Apple Developer Academy](https://www.developeracademy.unina.it/en/) (2023 - 2024)
 - **BSc, Applied Mathematics and Computer Science** - [UNAM](https://www.unam.mx/) (2020 - 2024)
 
 ## 📫 How to Reach Me
