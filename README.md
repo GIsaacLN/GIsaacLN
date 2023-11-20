@@ -21,11 +21,12 @@ Here are some of my projects. Feel free to check them out!
 
 ## 📚 Education
 
+- **iOS App Development** - [Apple Developer Academy]([https://www.unam.mx/](https://www.developeracademy.unina.it/en/)) (2023 - 2024)
 - **BSc, Applied Mathematics and Computer Science** - [UNAM](https://www.unam.mx/) (2020 - 2024)
 
 ## 📫 How to Reach Me
 
 Feel free to get in touch with me:
 
-- Email: [isaac.lopez.1b@gmail.com](mailto:isaac.lopez.1b@gmail.com)
+- Email: [isaac.developertech@gmail.com](mailto:isaac.developertech@gmail.com)
 - LinkedIn: [GIsaacLN](https://www.linkedin.com/in/gisaacln/)
