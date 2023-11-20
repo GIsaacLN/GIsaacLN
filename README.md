@@ -14,6 +14,7 @@ I'm a software developer currently studying applied mathematics and computer sci
 
 Here are some of my projects. Feel free to check them out!
 
+- **[Melod](https://github.com/GIsaacLN/Melod)**: A SwiftUI-based iOS app that suggests songs to add to a playlist using a custom CoreML model. Inspired by Spotify, it allows users to manage a playlist by adding or deleting songs, with the model recommending new tracks based on the playlist's existing songs.
 - **[Vida Loca Travel](https://gisaacln.github.io/VidaLocaTravel/)**: A dynamic website for a fictitious travel agency, built with HTML, CSS, JavaScript, PHP, and MySQL, showcasing travel destinations and packages.
 - **[NutriScan](#)**: An iOS app using CoreML, VisionKit, and a custom-built API, providing users with nutritional information of scanned food and a personal food consumption tracker.
 - **[Digame](#)**: A prototype app aimed to serve as a sign language interpreter, currently featuring a SwiftUI-based UI, with future plans for AI integration.
