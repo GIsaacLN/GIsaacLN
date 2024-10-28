@@ -91,6 +91,12 @@ Here are some of the projects I've worked on. Feel free to explore!
 </table>
 
 <div align="center">
+  <a href="https://github.com/GIsaacLN/Conways-Game-Of-Life">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GIsaacLN&repo=Conways-Game-Of-Life&theme=github_dark" alt="Conways Game Of Life Repo" />
+  </a>
+  <a href="https://github.com/GIsaacLN/MoviesStoriChallenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GIsaacLN&repo=MoviesStoriChallenge&theme=github_dark" alt="Conways Game Of Life Repo" />
+  </a>
   <a href="https://github.com/GIsaacLN/Melod">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GIsaacLN&repo=Melod&theme=github_dark" alt="Melod Repo" />
   </a>
