@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-five-dun-79.vercel.app/api/top-langs/?username=GIsaacLN&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-three-theta-93.vercel.app/api/top-langs/?username=GIsaacLN&layout=compact&theme=github_dark" alt="Top Langs" />
 </div>
 
 <h2 align="center">
